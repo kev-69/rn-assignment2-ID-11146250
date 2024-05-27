@@ -7,7 +7,7 @@
 - Make the name "Bismark Obuobi" bold.
 
 ## Screenshot
-![Screenshot](Screenshot(258).png)
+![Screenshot](Screenshot.png)
 
 ## Student ID
 11146250
